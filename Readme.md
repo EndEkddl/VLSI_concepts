@@ -1,4 +1,4 @@
-# CAD&VLSI VLSI concepts
+# VLSI concepts
 
 ### Contents
 
